@@ -1,4 +1,4 @@
-Feature: Webdriver - contact us page
+Feature: Webdriver University- contact us page
   Scenario: Validate successful contact us page creation
     Given I access the contact us page
     When I fill the first name
