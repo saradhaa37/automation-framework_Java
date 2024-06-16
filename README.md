@@ -2,6 +2,8 @@
 
 - Java
 - Maven installed
+- TestNG
+- Cuccumber
 
   
 **This includes:**
